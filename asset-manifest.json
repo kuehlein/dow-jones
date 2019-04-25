@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kuehlein/dow-jones/static/css/main.9b222726.chunk.css",
-    "main.js": "/kuehlein/dow-jones/static/js/main.7efcc8fb.chunk.js",
-    "main.js.map": "/kuehlein/dow-jones/static/js/main.7efcc8fb.chunk.js.map",
-    "runtime~main.js": "/kuehlein/dow-jones/static/js/runtime~main.52eb2aac.js",
-    "runtime~main.js.map": "/kuehlein/dow-jones/static/js/runtime~main.52eb2aac.js.map",
-    "static/js/2.ab441d11.chunk.js": "/kuehlein/dow-jones/static/js/2.ab441d11.chunk.js",
-    "static/js/2.ab441d11.chunk.js.map": "/kuehlein/dow-jones/static/js/2.ab441d11.chunk.js.map",
-    "index.html": "/kuehlein/dow-jones/index.html",
-    "precache-manifest.70de39e25b811f0bf5020812fe1aba1f.js": "/kuehlein/dow-jones/precache-manifest.70de39e25b811f0bf5020812fe1aba1f.js",
-    "service-worker.js": "/kuehlein/dow-jones/service-worker.js",
-    "static/css/main.9b222726.chunk.css.map": "/kuehlein/dow-jones/static/css/main.9b222726.chunk.css.map"
+    "main.css": "/dow-jones/static/css/main.9b222726.chunk.css",
+    "main.js": "/dow-jones/static/js/main.f1f9f7b2.chunk.js",
+    "main.js.map": "/dow-jones/static/js/main.f1f9f7b2.chunk.js.map",
+    "runtime~main.js": "/dow-jones/static/js/runtime~main.51459738.js",
+    "runtime~main.js.map": "/dow-jones/static/js/runtime~main.51459738.js.map",
+    "static/js/2.ab441d11.chunk.js": "/dow-jones/static/js/2.ab441d11.chunk.js",
+    "static/js/2.ab441d11.chunk.js.map": "/dow-jones/static/js/2.ab441d11.chunk.js.map",
+    "index.html": "/dow-jones/index.html",
+    "precache-manifest.ed56cd35d4e0fdc48b7db1805ef6d17d.js": "/dow-jones/precache-manifest.ed56cd35d4e0fdc48b7db1805ef6d17d.js",
+    "service-worker.js": "/dow-jones/service-worker.js",
+    "static/css/main.9b222726.chunk.css.map": "/dow-jones/static/css/main.9b222726.chunk.css.map"
   }
 }
