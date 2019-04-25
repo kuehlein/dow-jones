@@ -1,0 +1,2 @@
+.app-container{justify-content:center;max-width:90vw;padding:1rem 2rem}.app-container,.search-results-container{display:flex;flex-direction:column}.card-container{display:flex;flex-wrap:wrap;justify-content:center}.card{margin:.5rem}.card,.card img{width:15rem}.card a{color:#252525;text-decoration:none}.card h3{font-weight:800}.card p{font-weight:300}#search{display:flex;position:fixed;overflow:hidden;top:0;width:100%;background-color:#fff;padding:1rem}
+/*# sourceMappingURL=main.9b222726.chunk.css.map */

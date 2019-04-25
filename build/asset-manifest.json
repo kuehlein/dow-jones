@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuehlein/dow-jones/static/css/main.9b222726.chunk.css",
+    "main.js": "/kuehlein/dow-jones/static/js/main.7efcc8fb.chunk.js",
+    "main.js.map": "/kuehlein/dow-jones/static/js/main.7efcc8fb.chunk.js.map",
+    "runtime~main.js": "/kuehlein/dow-jones/static/js/runtime~main.52eb2aac.js",
+    "runtime~main.js.map": "/kuehlein/dow-jones/static/js/runtime~main.52eb2aac.js.map",
+    "static/js/2.ab441d11.chunk.js": "/kuehlein/dow-jones/static/js/2.ab441d11.chunk.js",
+    "static/js/2.ab441d11.chunk.js.map": "/kuehlein/dow-jones/static/js/2.ab441d11.chunk.js.map",
+    "index.html": "/kuehlein/dow-jones/index.html",
+    "precache-manifest.70de39e25b811f0bf5020812fe1aba1f.js": "/kuehlein/dow-jones/precache-manifest.70de39e25b811f0bf5020812fe1aba1f.js",
+    "service-worker.js": "/kuehlein/dow-jones/service-worker.js",
+    "static/css/main.9b222726.chunk.css.map": "/kuehlein/dow-jones/static/css/main.9b222726.chunk.css.map"
+  }
+}
