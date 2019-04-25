@@ -10,7 +10,7 @@ const Card = ({ pic, text1, text2, link }) => (
   <div className="card">
     <a href={link}>
       <img src={pic} alt="img" />
-      <p>{text1}</p>
+      <h3>{text1}</h3>
       <p>{text2}</p>
     </a>
   </div>
