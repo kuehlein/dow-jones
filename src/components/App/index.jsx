@@ -4,10 +4,9 @@ import "./App.css";
 import React, { Component, Fragment } from "react";
 import { withRouter } from "react-router-dom";
 
+import Landing from "../Landing";
 import Footer from "./Footer";
-import Main from "./Main";
 import Navbar from "./Navbar";
-import Routes from "./Routes";
 
 // If you use React Router, make this component
 // render <Router> with your routes. Currently,
@@ -26,16 +25,24 @@ import Routes from "./Routes";
 class App extends Component {
   constructor(props) {
     super(props);
+    this.state = {
+      text: ""
+    };
+    this.getText = this.getText.bind(this);
+  }
+
+  getText(value) {
+    this.setState({ text: value });
   }
 
   render() {
+    const { text } = this.state;
+
     return (
       <Fragment>
-        <Navbar handleLogout={this.handleLogout} />
+        <Navbar getText={this.getText} />
         <hr />
-        <Main>
-          <Routes />
-        </Main>
+        <Landing text={text} />
         <Footer />
       </Fragment>
     );
