@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 
 import Search from "./Search";
 
@@ -9,10 +9,10 @@ import Search from "./Search";
  * @returns {*} ReactElement<any>
  */
 const Navbar = ({ getText }) => (
-  <Fragment>
+  <div id="nav">
     <h2>Search Images and Graphics</h2>
     <Search getText={getText} />
-  </Fragment>
+  </div>
 );
 
 export default Navbar;

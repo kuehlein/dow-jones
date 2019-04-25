@@ -13,7 +13,6 @@
 }
 
 .card-container {
-  align-items: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -31,4 +30,25 @@
 .card a {
   color: #252525;
   text-decoration: none;
+}
+
+.card h3 {
+  font-weight: 800;
+}
+
+.card p {
+  font-weight: 300;
+}
+
+#nav {
+}
+
+#search {
+  display: flex;
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  padding: 1rem;
 }

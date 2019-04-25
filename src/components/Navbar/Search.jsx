@@ -9,7 +9,7 @@ import React from "react";
  * @returns {*} ReactElement<any>
  */
 const Search = ({ getText }) => (
-  <div style={{ display: "flex" }}>
+  <div id="search">
     <p>search</p>
     <input
       type="text"
