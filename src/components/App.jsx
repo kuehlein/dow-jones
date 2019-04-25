@@ -1,7 +1,7 @@
 import "./App.css";
 
 import axios from "axios";
-import React, { Component, Fragment } from "react";
+import React, { Component } from "react";
 
 import Navbar from "./Navbar";
 import SearchResults from "./SearchResults";
@@ -55,11 +55,11 @@ class App extends Component {
     const { images, graphics, text } = this.state;
 
     return (
-      <Fragment>
+      <div className="app-container">
         <Navbar getText={this.getText} />
         <hr />
         <SearchResults graphics={graphics} images={images} text={text} />
-      </Fragment>
+      </div>
     );
   }
 }
