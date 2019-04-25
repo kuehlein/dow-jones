@@ -9,7 +9,7 @@ import CardContainer from "./CardContainer";
  * @returns {*} ReactElement<any>
  */
 const SearchResults = ({ graphics, images, text }) => (
-  <div>
+  <div className="search-results-container">
     <h2>Images</h2>
     <CardContainer data={images} isImage text={text} />
 

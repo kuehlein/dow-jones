@@ -7,9 +7,9 @@ import React from "react";
  * @returns {*} ReactElement<any>
  */
 const Card = ({ pic, text1, text2, link }) => (
-  <div style={{ width: "10em" }}>
+  <div className="card">
     <a href={link}>
-      <img src={pic} alt="img" style={{ width: "100px" }} />
+      <img src={pic} alt="img" />
       <p>{text1}</p>
       <p>{text2}</p>
     </a>
